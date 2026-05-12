@@ -2,6 +2,10 @@
 name = "xe"
 version = "0.1.0"
 edition = "2024"
+license-file = "license"
+description = "xe"
+
+repository = "https://github.com/unitme/xe"
 
 [dependencies]
 anyhow = "1"
