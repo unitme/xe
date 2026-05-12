@@ -26,3 +26,10 @@ Modes:
 - `+` / `-`: volume
 - media keys: play/pause, next/previous, raise/lower/mute volume
 - `q` / Ctrl-C: quit
+
+
+## responsible use
+
+only use this tool with audio you own, have permission to use, or are otherwise allowed to access and play. do not use it to bypass platform restrictions, violate terms of service, or play copyrighted music without authorization.
+
+you are responsible for your own use
